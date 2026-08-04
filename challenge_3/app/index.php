@@ -1,7 +1,10 @@
 <?php
 if (!isset($_GET['name'])) {
+
     $files = glob('files/*');
+
     echo "<h1>Seznam souborů</h1>";
+
     echo "<ul>";
     foreach ($files as $file) {
         $name = basename($file);
@@ -10,6 +13,7 @@ if (!isset($_GET['name'])) {
             . htmlspecialchars($name) . '</a></li>';
     }
     echo "</ul>";
+
     exit;
 }
 
