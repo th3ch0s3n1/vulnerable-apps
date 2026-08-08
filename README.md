@@ -23,7 +23,7 @@ Obsahuje také ukázku možné opravy.
     - [Výzva #2 - možné řešení](challenge_2/README.md)
 
 - Výzva #3
-    - [Výzva #3 - zdrojový kód](challenge_3/app/main.c)
+    - [Výzva #3 - zdrojový kód](challenge_3/app/index.php)
     - [Výzva #3 - možné řešení](challenge_3/README.md)
 
 - Výzva #4
