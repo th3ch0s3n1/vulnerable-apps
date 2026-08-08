@@ -25,3 +25,7 @@ Obsahuje také ukázku možné opravy.
 - Výzva #3
     - [Výzva #3 - zdrojový kód](challenge_3/app/main.c)
     - [Výzva #3 - možné řešení](challenge_3/README.md)
+
+- Výzva #4
+    - [Výzva #4 - zdrojový kód](challenge_4/app/main.cpp)
+    - [Výzva #4 - možné řešení](challenge_4/README.md)
