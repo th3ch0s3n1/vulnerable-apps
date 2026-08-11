@@ -30,6 +30,6 @@ Obsahuje také ukázku možné opravy.
     - [Výzva #4 - zdrojový kód](challenge_4/app/main.cpp)
     - [Výzva #4 - možné řešení](challenge_4/README.md)
 
-- Výzva #5 (SQL Injection)
+- Výzva #5 (SQL Injection v Node.js)
     - [Výzva #4 - zdrojový kód](challenge_5/app/main.js)
     - [Výzva #4 - možné řešení](challenge_5/README.md)
